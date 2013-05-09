@@ -1,9 +1,8 @@
 //
 //  FastScrollViewController.m
-//  Side Effects
 //
-//  Created by dev on 5/9/13.
-//  Copyright (c) 2013 Fluux Development. All rights reserved.
+//  Created by Josh Ault on 5/9/13.
+//  Copyright (c) 2013 Josh Ault All rights reserved.
 //
 
 #import "FastScrollViewController.h"
